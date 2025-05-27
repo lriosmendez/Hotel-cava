@@ -84,5 +84,4 @@ Se utiliza MongoDB. El esquema principal es `Cliente`, con campos como:
  
 
 
-**Texto en negrilla**
-_Texto_
+
