@@ -25,17 +25,19 @@ El sistema proporcionara informes y análisis detallados sobre el rendimiento de
 ### Descripcion del Proyecto
 El proyecto a realizar consitira en desarrollar una aplicacion de escritorio para llevar el registro y control eficiente de reservas, Check-in/Check-out. Gestion de habitaciones , facturacion y pagos. 
 Control de inventarion con el proposito de obtener informacion precisa y oportuna y asi poder brindar un mejor servicio a sus clientes.
-#### Requisitos 
-  Funcionales 
+#### Requisitos  Funcionales 
+
   ![image](https://github.com/user-attachments/assets/de4cf5ad-52b6-4355-90b5-8dc38b7e31df)
+
+
 
   No Funcionales 
   Escalabilidad: El sistema debe ser capaz de manejar un aumento en el volumen de reservas y operaciones, especialmente en temporada alta.
-  Seguridad:     Debe asugurar la proteccion de la informacion sensible de los clientes 
-  Usabilidad:   La interfaz debe ser intuitiva t facil de usar para los empleados del hotel, sin importar nivel tecnico 
-  Fiabilidad:   Debe ser confiable y estar disponible en todo momento, sin caidas frecuates que afecten la operacion del hotel
-  Rendimiento:  Debe ser rapido, tiempos de respuesta cortos incluso durante picos de alta demanda
-  Mantenimiento y soporte: Debe ser facil de mantener y actualizar, con un equipo de soporte disponible para resolver problemas tecnicos 
+  Seguridad:     Debe asegurar la protección de la información sensible de los clientes 
+  Usabilidad:    La interfaz debe ser intuitiva t fácil de usar para los empleados del hotel, sin importar nivel técnico 
+  Fiabilidad:    Debe ser confiable y estar disponible en todo momento, sin caídas frecuentes que afecten la operación del hotel
+  Rendimiento:   Debe ser rápido, tiempos de respuesta cortos incluso durante picos de alta demanda
+  Mantenimiento y soporte: Debe ser fácil de mantener y actualizar, con un equipo de soporte disponible para resolver problemas técnicos 
 
 
 
