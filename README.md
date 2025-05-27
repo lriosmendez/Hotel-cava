@@ -57,7 +57,11 @@ Control de inventarion con el proposito de obtener informacion precisa y oportun
   ![image](https://github.com/user-attachments/assets/175c4349-fc4f-423b-98de-566f0c216de3)
 
   
-##### Este es titulo 5
+##### Instalacion 
+
+###### Uso del Sistema
+
+####### Base de datos (modelado)
 
 
 
