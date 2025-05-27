@@ -1,4 +1,4 @@
-# Ejemplo de codigo MarkDown
+# Documentación Técnica del Sistema - Hotel CAVA
 # Este es Titulo 1
 ## Este es Titulo 2
 ### Este es Titulo 3
