@@ -25,7 +25,18 @@ El sistema proporcionara informes y análisis detallados sobre el rendimiento de
 ### Descripcion del Proyecto
 El proyecto a realizar consitira en desarrollar una aplicacion de escritorio para llevar el registro y control eficiente de reservas, Check-in/Check-out. Gestion de habitaciones , facturacion y pagos. 
 Control de inventarion con el proposito de obtener informacion precisa y oportuna y asi poder brindar un mejor servicio a sus clientes.
-#### Este es Titulo 4
+#### Requisitos 
+  Funcionales y No Funciones 
+
+
+
+
+  Tecnicos 
+
+
+
+
+  De arquitectura del sistema 
 ##### Este es titulo 5
 
 # Esta es una tabla
