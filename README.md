@@ -51,18 +51,18 @@ Control de inventarion con el proposito de obtener informacion precisa y oportun
             El sistema se estructura en dos partes principales: 
   1.- Frontend: Interfaz grafica contrusida conHTML, CSS y JS.
   2.- Backend:  Servidor con Express.js que expone una API REST conectada a Mongodb.
+
+  
+
+  ![image](https://github.com/user-attachments/assets/175c4349-fc4f-423b-98de-566f0c216de3)
+
   
 ##### Este es titulo 5
 
-# Esta es una tabla
 
-|Nombre | Imagen |
-|-------|-------|
-|Hotel Cava|![](/Datos/Hotel.jpg)|
 
-# Link a una imagen 
-![](/datos/Hotel.gpg).
-*Teexto en cursiva*
+ 
+
 
 **Texto en negrilla**
 _Texto_
