@@ -41,14 +41,17 @@ Control de inventarion con el proposito de obtener informacion precisa y oportun
 
 
 
-
-
-  Tecnicos 
-
-
-
+  Tecnicos: Node.js v18+
+            Express.js
+            MongoDB
+            HTML5,CSS3 y JavaScript.
+            
 
   De arquitectura del sistema 
+            El sistema se estructura en dos partes principales: 
+  1.- Frontend: Interfaz grafica contrusida conHTML, CSS y JS.
+  2.- Backend:  Servidor con Express.js que expone una API REST conectada a Mongodb.
+  
 ##### Este es titulo 5
 
 # Esta es una tabla
