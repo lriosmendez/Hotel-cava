@@ -65,8 +65,13 @@ Control de inventarion con el proposito de obtener informacion precisa y oportun
 5. Ejecuta `npm start` para iniciar el servidor.
    
 ###### Uso del Sistema
+- Visita `http://localhost:3000/login.html` para iniciar sesión.
+- Usa `register.html` para crear una cuenta.
+- Accede a `clientes.html` para gestionar registros de clientes.
+
 
 ####### Base de datos (modelado)
+
 
 
 
