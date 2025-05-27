@@ -1,10 +1,25 @@
 # Documentación Técnica del Sistema - Hotel CAVA
 Producto 2: Desarrollo de Software, Conexión con Base de Datos y Documentación de Código
+
+**Integrantes del equipo (en orden alfabético):**
+1. Hernández Santiesteban Luis Eduardo
+2. Lizárraga Meza Julia Isabel
+3. Lorena Ríos Méndez
+4. Rivera Alvarado Jesús Ernesto
+5. Víctor Ramírez Méndez 
+
 # Introducción
 Este documento describe el desarrollo técnico del sistema de gestión hotelera Hotel CAVA. Incluye el diseño de la interfaz, conexión con base de datos, autenticación de usuarios y funcionalidad CRUD para clientes. El objetivo es proporcionar un sistema funcional que facilite la administración de clientes y reservas en un entorno hotelero.
 
-## Contenido
+## Resumen del sistema 
 El sistema está compuesto por una interfaz web, un backend desarrollado con Node.js y Express, y una base de datos MongoDB. Se incluye autenticación de usuarios, registro, login y un CRUD completo de clientes. La interfaz está basada en un diseño de Figma y es responsiva
+Para ello se generara una base de datos que almacenara toda la informacion necesaria y los programas correspondientes para el registro y procesamiento de los datos, asi como la obtencion de los reportes correspondientes. 
+Contara con un formulario de inicio de sesion y el menu con las opciones requeridas por el sistema y usuario.
+Este sistema incluira la disponibilidad de habitaciones, pecios asi como la gestion de cancelacion y modificacion de la reserva.
+Se registrara la entrada y salida e los clientes, acelerando el proceso y reducir la carga administrativa y mejorando la experiancia del cliente.
+El cliente podra facrurar los servicios prestados en el hotel 
+Contara con la gestion de inventarios de productos y servicios dentro del hotel 
+El sistema proporcionara informes y analisis detallados sobre el rendimiento del hotel, incluyendo ocupacion, ingresos, tendencias de reserva, entre otros indicadores clave.
 
 ### Descripcion del Proyecto
 El proyecto a realizar consitira en desarrollar una aplicacion de escritorio para llevar el registro y control eficiente de reservas, Check-in/Check-out. Gestion de habitaciones , facturacion y pagos. 
