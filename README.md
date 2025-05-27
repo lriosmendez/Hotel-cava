@@ -2,8 +2,11 @@
 Producto 2: Desarrollo de Software, Conexión con Base de Datos y Documentación de Código
 # Introducción
 Este documento describe el desarrollo técnico del sistema de gestión hotelera Hotel CAVA. Incluye el diseño de la interfaz, conexión con base de datos, autenticación de usuarios y funcionalidad CRUD para clientes. El objetivo es proporcionar un sistema funcional que facilite la administración de clientes y reservas en un entorno hotelero.
-## Contenido 
-### Este es Titulo 3
+
+## Contenido
+El sistema está compuesto por una interfaz web, un backend desarrollado con Node.js y Express, y una base de datos MongoDB. Se incluye autenticación de usuarios, registro, login y un CRUD completo de clientes. La interfaz está basada en un diseño de Figma y es responsiva
+
+### Descripcion del Proyecto
 #### Este es Titulo 4
 ##### Este es titulo 5
 
