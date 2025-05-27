@@ -58,7 +58,12 @@ Control de inventarion con el proposito de obtener informacion precisa y oportun
 
   
 ##### Instalacion 
-
+1. Clona el repositorio o extrae el archivo ZIP.
+2. Abre una terminal en la carpeta /backend.
+3. Ejecuta `npm install` para instalar dependencias.
+4. Crea un archivo `.env` con la variable MONGO_URI.
+5. Ejecuta `npm start` para iniciar el servidor.
+   
 ###### Uso del Sistema
 
 ####### Base de datos (modelado)
