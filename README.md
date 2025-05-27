@@ -70,7 +70,13 @@ Control de inventarion con el proposito de obtener informacion precisa y oportun
 - Accede a `clientes.html` para gestionar registros de clientes.
 
 
-####### Base de datos (modelado)
+Base de datos
+Se utiliza MongoDB. El esquema principal es `Cliente`, con campos como:
+- nombre (String)
+- correo (String)
+- teléfono (String)
+- dirección (String
+
 
 
 
